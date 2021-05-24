@@ -1,0 +1,6 @@
+ID		Name			Father's name			Mother's name			Gender		Email					Mobile			Bangla	English	ICT	Math	Physics	Chemistry	Biology	CGPA
+210097		jsf			jkfs				sfjkdklad			jdksf		klsdjhfsdklafj				7847595348		72	79	98	89	94	93		72	3.82
+210098		jhrfklsdf		fjklgfs				fjkg;sildjf			male		l;ksdfhgjdfs				85479043		73	73	58	73	73	73		73	3.39
+210099		kfdljlhg		fdsjkfsd			sdjkfjjj			sdjkf		jkdfghmk				789345398		79	82	58	73	67	62		78	3.43
+210100		HASAN			jsdhkf				fgdjgl				jkhdfjfk	jkfdgilk				3485943577		73	73	47	73	73	73		73	3.32
+210104		Sharukh Khan		Salman Khan			Karina Kapoor			Male		sharukhkhan@gmail.com			1234567890		79	74	95	83	77	72		73	3.71
